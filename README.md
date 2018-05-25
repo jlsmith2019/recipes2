@@ -1,3 +1,3 @@
-## recipes2
+## Recipes2
 
-# Try 2 of recipes
+* Try 2 of recipes
